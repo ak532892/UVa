@@ -34,6 +34,6 @@ int main() {
 /*
 
 KMP
-or divisible
+divisible
 
 */
