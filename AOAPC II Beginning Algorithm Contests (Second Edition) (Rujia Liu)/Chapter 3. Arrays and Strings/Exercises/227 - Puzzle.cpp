@@ -95,6 +95,6 @@ int main() {
 /*
 
 map
-or gets
+gets
 
 */
