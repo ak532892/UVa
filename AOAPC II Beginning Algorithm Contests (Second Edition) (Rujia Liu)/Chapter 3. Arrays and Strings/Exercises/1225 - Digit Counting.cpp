@@ -33,7 +33,7 @@ int main() {
 
 /*
 
-or digit to string
+digit to string
 memcpy
 
 */
